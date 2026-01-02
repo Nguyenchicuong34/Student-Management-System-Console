@@ -1,0 +1,317 @@
+<dsDanhVien>
+  <sinhVien>
+    <masv>SV014</masv>
+    <hoten>Võ Thị Kim Yến</hoten>
+    <ngaysinh>2002-09-17</ngaysinh>
+    <gioitinh>Nữ</gioitinh>
+    <lop>CTK42B</lop>
+    <khoa>Kinh tế</khoa>
+    <khoahoc>2019-2023</khoahoc>
+    <sodienthoai>0912345691</sodienthoai>
+    <email>kimyen.vo@gmail.com</email>
+    <diachi>Quảng Nam</diachi>
+    <diem1>9,5</diem1>
+    <diem2>9</diem2>
+    <diem3>9,8</diem3>
+  </sinhVien>
+  <sinhVien>
+    <masv>SV003</masv>
+    <hoten>Lê Hoàng Nam</hoten>
+    <ngaysinh>2001-12-10</ngaysinh>
+    <gioitinh>Nam</gioitinh>
+    <lop>CTK42A</lop>
+    <khoa>Công nghệ thông tin</khoa>
+    <khoahoc>2019-2023</khoahoc>
+    <sodienthoai>0912345680</sodienthoai>
+    <email>nam.le@gmail.com</email>
+    <diachi>Đà Nẵng</diachi>
+    <diem1>9,2</diem1>
+    <diem2>8,8</diem2>
+    <diem3>9,5</diem3>
+  </sinhVien>
+  <sinhVien>
+    <masv>SV018</masv>
+    <hoten>Lý Thị Mỹ Duyên</hoten>
+    <ngaysinh>2002-03-03</ngaysinh>
+    <gioitinh>Nữ</gioitinh>
+    <lop>CTK42A</lop>
+    <khoa>Công nghệ thông tin</khoa>
+    <khoahoc>2019-2023</khoahoc>
+    <sodienthoai>0912345695</sodienthoai>
+    <email>myduyen.ly@gmail.com</email>
+    <diachi>Hà Nội</diachi>
+    <diem1>8,9</diem1>
+    <diem2>9,2</diem2>
+    <diem3>9,5</diem3>
+  </sinhVien>
+  <sinhVien>
+    <masv>SV007</masv>
+    <hoten>Vũ Minh Tuấn</hoten>
+    <ngaysinh>2001-11-30</ngaysinh>
+    <gioitinh>Nam</gioitinh>
+    <lop>CTK42C</lop>
+    <khoa>Quản trị kinh doanh</khoa>
+    <khoahoc>2019-2023</khoahoc>
+    <sodienthoai>0912345684</sodienthoai>
+    <email>tuan.vu@gmail.com</email>
+    <diachi>Hải Dương</diachi>
+    <diem1>9</diem1>
+    <diem2>8,5</diem2>
+    <diem3>9,3</diem3>
+  </sinhVien>
+  <sinhVien>
+    <masv>SV011</masv>
+    <hoten>Nguyễn Văn Sơn</hoten>
+    <ngaysinh>2001-08-19</ngaysinh>
+    <gioitinh>Nam</gioitinh>
+    <lop>CTK42B</lop>
+    <khoa>Kinh tế</khoa>
+    <khoahoc>2019-2023</khoahoc>
+    <sodienthoai>0912345688</sodienthoai>
+    <email>son.nguyen@gmail.com</email>
+    <diachi>Hà Nội</diachi>
+    <diem1>8,7</diem1>
+    <diem2>8,9</diem2>
+    <diem3>9,2</diem3>
+  </sinhVien>
+  <sinhVien>
+    <masv>SV001</masv>
+    <hoten>Nguyễn Minh Khang</hoten>
+    <ngaysinh>2002-01-15</ngaysinh>
+    <gioitinh>Nam</gioitinh>
+    <lop>CTK42A</lop>
+    <khoa>Công nghệ thông tin</khoa>
+    <khoahoc>2019-2023</khoahoc>
+    <sodienthoai>0912345678</sodienthoai>
+    <email>khang.nguyen@gmail.com</email>
+    <diachi>Hà Nội</diachi>
+    <diem1>8,5</diem1>
+    <diem2>7,8</diem2>
+    <diem3>9</diem3>
+  </sinhVien>
+  <sinhVien>
+    <masv>SV020</masv>
+    <hoten>Phạm Thị Cẩm Tú</hoten>
+    <ngaysinh>2002-10-29</ngaysinh>
+    <gioitinh>Nữ</gioitinh>
+    <lop>CTK42B</lop>
+    <khoa>Kinh tế</khoa>
+    <khoahoc>2019-2023</khoahoc>
+    <sodienthoai>0912345697</sodienthoai>
+    <email>camtupham@gmail.com</email>
+    <diachi>Hà Nội</diachi>
+    <diem1>8,2</diem1>
+    <diem2>8</diem2>
+    <diem3>8,5</diem3>
+  </sinhVien>
+  <sinhVien>
+    <masv>SV009</masv>
+    <hoten>Hoàng Văn Duy</hoten>
+    <ngaysinh>2001-10-12</ngaysinh>
+    <gioitinh>Nam</gioitinh>
+    <lop>CTK42A</lop>
+    <khoa>Công nghệ thông tin</khoa>
+    <khoahoc>2019-2023</khoahoc>
+    <sodienthoai>0912345686</sodienthoai>
+    <email>duy.hoang@gmail.com</email>
+    <diachi>Hà Nội</diachi>
+    <diem1>7,6</diem1>
+    <diem2>7,8</diem2>
+    <diem3>8,1</diem3>
+  </sinhVien>
+  <sinhVien>
+    <masv>SV005</masv>
+    <hoten>Đỗ Quang Huy</hoten>
+    <ngaysinh>2001-09-09</ngaysinh>
+    <gioitinh>Nam</gioitinh>
+    <lop>CTK42B</lop>
+    <khoa>Kinh tế</khoa>
+    <khoahoc>2019-2023</khoahoc>
+    <sodienthoai>0912345682</sodienthoai>
+    <email>huy.do@gmail.com</email>
+    <diachi>Nam Định</diachi>
+    <diem1>7,5</diem1>
+    <diem2>7,7</diem2>
+    <diem3>8</diem3>
+  </sinhVien>
+  <sinhVien>
+    <masv>SV013</masv>
+    <hoten>Phạm Minh Quân</hoten>
+    <ngaysinh>2001-12-25</ngaysinh>
+    <gioitinh>Nam</gioitinh>
+    <lop>CTK42C</lop>
+    <khoa>Quản trị kinh doanh</khoa>
+    <khoahoc>2019-2023</khoahoc>
+    <sodienthoai>0912345690</sodienthoai>
+    <email>quan.pham@gmail.com</email>
+    <diachi>Hà Nội</diachi>
+    <diem1>7,2</diem1>
+    <diem2>7,5</diem2>
+    <diem3>7,8</diem3>
+  </sinhVien>
+  <sinhVien>
+    <masv>SV016</masv>
+    <hoten>Nguyễn Thị Hồng Gấm</hoten>
+    <ngaysinh>2002-08-08</ngaysinh>
+    <gioitinh>Nữ</gioitinh>
+    <lop>CTK42C</lop>
+    <khoa>Quản trị kinh doanh</khoa>
+    <khoahoc>2019-2023</khoahoc>
+    <sodienthoai>0912345693</sodienthoai>
+    <email>honggam.nguyen@gmail.com</email>
+    <diachi>Hà Nội</diachi>
+    <diem1>7</diem1>
+    <diem2>7,3</diem2>
+    <diem3>7,7</diem3>
+  </sinhVien>
+  <sinhVien>
+    <masv>SV002</masv>
+    <hoten>Trần Thị Bích Ngọc</hoten>
+    <ngaysinh>2002-03-22</ngaysinh>
+    <gioitinh>Nữ</gioitinh>
+    <lop>CTK42B</lop>
+    <khoa>Kinh tế</khoa>
+    <khoahoc>2019-2023</khoahoc>
+    <sodienthoai>0912345679</sodienthoai>
+    <email>ngoc.tran@gmail.com</email>
+    <diachi>Hải Phòng</diachi>
+    <diem1>6,5</diem1>
+    <diem2>7</diem2>
+    <diem3>6,8</diem3>
+  </sinhVien>
+  <sinhVien>
+    <masv>SV017</masv>
+    <hoten>Trần Quốc Hưng</hoten>
+    <ngaysinh>2001-11-11</ngaysinh>
+    <gioitinh>Nam</gioitinh>
+    <lop>CTK42B</lop>
+    <khoa>Kinh tế</khoa>
+    <khoahoc>2019-2023</khoahoc>
+    <sodienthoai>0912345694</sodienthoai>
+    <email>hung.tran@gmail.com</email>
+    <diachi>Hà Nội</diachi>
+    <diem1>6,6</diem1>
+    <diem2>6,8</diem2>
+    <diem3>7</diem3>
+  </sinhVien>
+  <sinhVien>
+    <masv>SV010</masv>
+    <hoten>Đặng Thị Thu Trang</hoten>
+    <ngaysinh>2002-06-05</ngaysinh>
+    <gioitinh>Nữ</gioitinh>
+    <lop>CTK42C</lop>
+    <khoa>Quản trị kinh doanh</khoa>
+    <khoahoc>2019-2023</khoahoc>
+    <sodienthoai>0912345687</sodienthoai>
+    <email>trang.dang@gmail.com</email>
+    <diachi>Hà Tĩnh</diachi>
+    <diem1>6,4</diem1>
+    <diem2>6,7</diem2>
+    <diem3>6,9</diem3>
+  </sinhVien>
+  <sinhVien>
+    <masv>SV006</masv>
+    <hoten>Nguyễn Thị Mai Anh</hoten>
+    <ngaysinh>2002-07-14</ngaysinh>
+    <gioitinh>Nữ</gioitinh>
+    <lop>CTK42A</lop>
+    <khoa>Công nghệ thông tin</khoa>
+    <khoahoc>2019-2023</khoahoc>
+    <sodienthoai>0912345683</sodienthoai>
+    <email>maianh.nguyen@gmail.com</email>
+    <diachi>Hà Nội</diachi>
+    <diem1>6</diem1>
+    <diem2>6,5</diem2>
+    <diem3>6,8</diem3>
+  </sinhVien>
+  <sinhVien>
+    <masv>SV004</masv>
+    <hoten>Phạm Thị Thu Hà</hoten>
+    <ngaysinh>2002-05-18</ngaysinh>
+    <gioitinh>Nữ</gioitinh>
+    <lop>CTK42C</lop>
+    <khoa>Quản trị kinh doanh</khoa>
+    <khoahoc>2019-2023</khoahoc>
+    <sodienthoai>0912345681</sodienthoai>
+    <email>ha.pham@gmail.com</email>
+    <diachi>Hà Nam</diachi>
+    <diem1>5,8</diem1>
+    <diem2>6,2</diem2>
+    <diem3>5,5</diem3>
+  </sinhVien>
+  <sinhVien>
+    <masv>SV012</masv>
+    <hoten>Trần Thị Mỹ Linh</hoten>
+    <ngaysinh>2002-04-11</ngaysinh>
+    <gioitinh>Nữ</gioitinh>
+    <lop>CTK42A</lop>
+    <khoa>Công nghệ thông tin</khoa>
+    <khoahoc>2019-2023</khoahoc>
+    <sodienthoai>0912345689</sodienthoai>
+    <email>mylinh.tran@gmail.com</email>
+    <diachi>Hà Nội</diachi>
+    <diem1>5,5</diem1>
+    <diem2>5,8</diem2>
+    <diem3>6</diem3>
+  </sinhVien>
+  <sinhVien>
+    <masv>SV019</masv>
+    <hoten>Nguyễn Hoàng Long</hoten>
+    <ngaysinh>2001-07-21</ngaysinh>
+    <gioitinh>Nam</gioitinh>
+    <lop>CTK42C</lop>
+    <khoa>Quản trị kinh doanh</khoa>
+    <khoahoc>2019-2023</khoahoc>
+    <sodienthoai>0912345696</sodienthoai>
+    <email>long.nguyen@gmail.com</email>
+    <diachi>Hà Nội</diachi>
+    <diem1>5,2</diem1>
+    <diem2>5,8</diem2>
+    <diem3>5,5</diem3>
+  </sinhVien>
+  <sinhVien>
+    <masv>SV008</masv>
+    <hoten>Phan Thị Hồng Nhung</hoten>
+    <ngaysinh>2002-02-25</ngaysinh>
+    <gioitinh>Nữ</gioitinh>
+    <lop>CTK42B</lop>
+    <khoa>Kinh tế</khoa>
+    <khoahoc>2019-2023</khoahoc>
+    <sodienthoai>0912345685</sodienthoai>
+    <email>nhung.phan@gmail.com</email>
+    <diachi>Thái Bình</diachi>
+    <diem1>4,8</diem1>
+    <diem2>5,2</diem2>
+    <diem3>5</diem3>
+  </sinhVien>
+  <sinhVien>
+    <masv>SV015</masv>
+    <hoten>Đỗ Quốc Bảo</hoten>
+    <ngaysinh>2001-10-01</ngaysinh>
+    <gioitinh>Nam</gioitinh>
+    <lop>CTK42A</lop>
+    <khoa>Công nghệ thông tin</khoa>
+    <khoahoc>2019-2023</khoahoc>
+    <sodienthoai>0912345692</sodienthoai>
+    <email>bao.do@gmail.com</email>
+    <diachi>Hà Nội</diachi>
+    <diem1>4,5</diem1>
+    <diem2>5</diem2>
+    <diem3>4,8</diem3>
+  </sinhVien>
+  <sinhVien>
+    <masv>Sv021</masv>
+    <hoten>Nguyễn Chí Cường</hoten>
+    <ngaysinh>2006-08-26</ngaysinh>
+    <gioitinh>Nam</gioitinh>
+    <lop>15DHBM01</lop>
+    <khoa>Công nghệ thông tin</khoa>
+    <khoahoc>2024-2028</khoahoc>
+    <sodienthoai>039687013</sodienthoai>
+    <email>chicuong24@gmail.com</email>
+    <diachi>23 Long An</diachi>
+    <diem1>4,6</diem1>
+    <diem2>5,7</diem2>
+    <diem3>9,6</diem3>
+  </sinhVien>
+</dsDanhVien>
